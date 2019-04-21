@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/node-aws
+    destination: /var/www/html/node-aws
 hooks:
   ApplicationStart:
     - location: scripts/start_server.sh
