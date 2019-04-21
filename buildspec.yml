@@ -33,3 +33,5 @@ artifacts:
     - package.json
     - routes/*
     - node_modules/*
+    - appspec.yml
+    - scripts/*
