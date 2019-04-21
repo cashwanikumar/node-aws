@@ -5,6 +5,10 @@ const users = [
 	{
 		id: 1,
 		name: "ashwani"
+	},
+	{
+		id: 2,
+		name: "ashu"
 	}
 ]
 /* GET ALL USERS */
